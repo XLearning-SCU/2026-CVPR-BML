@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://cvpr.thecvf.com/Conferences/2026"><img src="https://img.shields.io/badge/Conference-CVPR%202026-blue" alt="CVPR2026"/></a>
-  <a href="https://drive.google.com/drive/folders/1PWqNc6Op9NPg6tWXzyoMbJlaWL-Dvnuo?usp=sharing"><img src="https://img.shields.io/badge/Paper-%F0%9F%93%96%20PDF-red" alt="Paper"/></a>
+  <a href="https://xlearning-lab.com/assets/2026-CVPR-Bootstrapping-Multi-view-Learning-for-Test-time-Noisy-Correspondence.pdf"><img src="https://img.shields.io/badge/Paper-%F0%9F%93%96%20PDF-red" alt="Paper"/></a>
   <a href="https://huggingface.co/datasets/XLearning-SCU/SUN-R-D-T"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-SUN--R--D--T-yellow" alt="HuggingFace SUN-R-D-T"/></a>
   <img src="https://img.shields.io/badge/Task-Multi--view%2Fmodal%20Classification-purple" alt="Task"/>
 </p>

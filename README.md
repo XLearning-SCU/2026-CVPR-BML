@@ -141,11 +141,11 @@ Example:
 If you find BML useful, please consider citing our papers 📝 and starring us ⭐️！
 
 ```bibtex
-@InProceedings{BML,
-    author    = {He, Changhao and Xue, Di and Li, Shuxian and Hao, Yanji and Peng, Xi and Hu, Peng},
-    title     = {Bootstrapping Multi-view Learning for Test-time Noisy Correspondence},
-    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
-    month     = {June},
-    year      = {2026},
+@inproceedings{he2026bootstrapping,
+  title={Bootstrapping Multi-view Learning for Test-time Noisy Correspondence},
+  author={He, Changhao and Xue, Di and Li, Shuxian and Hao, Yanji and Peng, Xi and Hu, Peng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1627--1638},
+  year={2026}
 }
 ```
